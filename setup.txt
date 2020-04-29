@@ -1,0 +1,7 @@
+1.Temperature Interval for Table:: 16.666
+2.Temperature per hour:: 200
+3.Calibration Value:: 0.0055
+4.Boundary Temperature:: 800
+5.folder_browsing :: NV-F0101.D, NV-F0202.D, NV-F0303.D, NV-F0404.D, NV-F0505.D, NV-F0606.D, NV-F0707.D, NV-F0808.D, NV-F0909.D, NV-F1010.D
+6.Data_file_name :: intermediate.txt
+7.sample_weigh :: 3
